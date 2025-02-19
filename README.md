@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MNzondo
+- 👋 Hi, I’m Memory Nzondo
 - 👀 I’m interested in ...learning new things and problems solving
 - 🌱 I’m currently learning ...Robotics level3 at Western Tvet College
 - 💞️ I’m looking to collaborate on ...programming Robots and reach out the solution to solve different problems
